@@ -1,0 +1,62 @@
+body{text-align: center;
+    background: url(imagenes/marmolado.jpg) }
+body{background-position:center; }
+.card-body { background-color: rgb(196, 193, 193);
+display:flex;
+justify-content: end;}
+.formulario{background-color: rgba(209, 205, 207, 0.877);
+    width: 300px;  height: 300px ;
+border-style:groove; 
+float:inline-end;  
+ }
+ .formulariollenar{ 
+    background-color: rgba(189, 184, 184, 0.671);
+    text-align: center;
+}
+
+ }
+form{border-color: rgb(255, 255, 255);}
+form{width: 300px; height: 300px;}
+form{border-style: double; }
+nav ul{
+    background-color: rgb(197, 194, 194);
+    width: 100%;
+    list-style-type:none;
+     text-align:center;
+  }
+   nav li{
+    display:inline-flex;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover{
+    background-color: rgb(180, 174, 174);
+}   
+.info{ 
+     width: 50%;border-right: 3px solid black;
+     margin-top: 60px;
+     background-color: rgba(197, 197, 193, 0.719);
+    float:right;
+    
+    }
+    .table,td,tr{
+        border:3px solid rgb(128, 128, 128);
+        background-color: rgba(180, 175, 175, 0.295);
+    
+    }
+.card-text,card-title,{
+    padding-top: 75px;
+}
+.bi bi-c-circle{width: 50%;border-right: 3px solid black;
+    margin-top: 60px;
+    background-color: rgba(197, 197, 193, 0.719);
+    float:right;
+}
+.contenedor{
+    background-color: rgba(189, 184, 184, 0.671);
+    text-align: center;
+}
